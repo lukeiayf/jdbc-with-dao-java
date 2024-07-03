@@ -1,3 +1,6 @@
+#IntelliJ ignore
+*.iml
+/.idea/
 # Compiled class file
 *.class
 
